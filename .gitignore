@@ -392,6 +392,7 @@ FodyWeavers.xsd
 
 # Desktop.ini (Google Drive info file)
 desktop.ini
+Thumbs.db
 
 .codegpt
 .qodo
