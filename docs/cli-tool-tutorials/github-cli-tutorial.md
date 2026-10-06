@@ -28,13 +28,17 @@ Follow the instructions and we are ready!
 
 # Fork this repository
 
-It's just as easy as running this command:
+Fork this repository and clone your fork to your computer:
 
 ```bash
-gh repo fork firstcontributions/first-contributions
+gh repo fork firstcontributions/first-contributions --clone
 ```
 
-**Important: It will prompt you if you want to clone it as well, select the "yes" option**
+Then go to the cloned repository directory:
+
+```bash
+cd first-contributions
+```
 
 # Create your branch
 
